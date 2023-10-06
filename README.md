@@ -60,4 +60,6 @@ Ahora vamos a proceder a estudiar los datos de los siniestros viales que se prod
 
 ![moto](https://github.com/andreasoria2022/PROYECTO-SINIESTRO-VIALES/assets/105015078/19228edc-b2e9-4fb3-8974-72b962bacc2c)
 
+Los Kpis serán incluidos en un dashboard interativo, con filtros. También se realizará un analisis claro con gráfico coherentes y estéticos.
+
 
