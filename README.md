@@ -1,6 +1,11 @@
 # Proyecto-Siniestros-Viales
 
 **PROYECTO SINIESTROS VIALES**
+<style>
+p {
+  text-align: justify;
+}
+</style>
 Este repositorio es un análisis de datos de los siniestros viales acaecidos en la Ciudad de Buenos Aires durante el período 2016 – 2021. Se procede a detallar las carpetas que contiene:
 
                                                                                                                              
