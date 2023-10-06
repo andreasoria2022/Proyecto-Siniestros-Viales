@@ -53,6 +53,7 @@ Cinturón de seguridad:
 Según cifras del Ministerio de Transporte, en Argentina, la mitad de los vehículos – 49,3% – circulan con todos sus ocupantes protegidos mediante el uso del cinturón de seguridad.
 Sin embargo, su uso varía de acuerdo a la posición que ocupa cada persona dentro del coche. Es decir, sólo el 55% de los conductores utilizan el cinturón, proporción que se reduce al 42,8% entre los que viajan en el asiento del acompañante y al 19,9% entre ocupantes de las butacas traseras.
 Un informe de la ANSV revela que, en caso de choque, su uso reduce la posibilidad de sufrir lesiones cerebrales en un 33% en el caso del conductor y de un 56% en el pasajero. También disminuye la posibilidad de sufrir fracturas de cráneo en un 18% y heridas faciales en un 45% para el conductor y 64% para el acompañante. Además, reducen un 45% el riesgo de muerte de los ocupantes de las plazas delanteras y un 44% de los ocupantes de las plazas traseras.
+
 Ahora vamos a proceder a estudiar los datos de los siniestros viales que se produjeron en la CABA (Ciudad Autónoma de Buenos Aires). En el periodo 2016-2019 se registró un promedio anual de 145 víctimas fatales a 30 días y un promedio de 1200 heridos graves.
  Se realizará el analisis de Kpis de los siniestros viales. 
 
