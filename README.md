@@ -30,7 +30,8 @@ de transporte involucrado.
 
 **EDA.ipynb**: es un archivo notebook en los que se realizó el análisis exploratorio de datos de los siniestros viales tanto los que tuvieron víctimas fatales como los que tuvieron lesiones como consecuencia del hecho. Se realizó el análisis de los siniestros por año, según el vehículo que ocupaba la víctima, según el vehículo que ocupaba el acusado del hecho para los cuales se realizaron gráficos de barras también se llevó a cabo el análisis estadístico de las variables numéricas, gráficos de cajas, gráficos de dispersión, mapa de calor, etc.
 
--	**Readme**: es un detalle de lo que vamos a encontrar en el repositorio. Y vamos a encontrar un informe. 
+-	**Readme**: es un detalle de lo que vamos a encontrar en el repositorio. Y vamos a encontrar un informe.
+  
 
 **INFORME DE LOS SINIESTROS VIALES**
 
